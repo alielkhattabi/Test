@@ -1,0 +1,2 @@
+c'est un fichier pour tester les commandes Git
+et ca c'est soit disant que c'est le code que j'ai ajoute  
